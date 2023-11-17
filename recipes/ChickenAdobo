@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head> 
+    <meta charset"UTF-8">
+    <title>Chicken Adobo</title>
+   
+ </head>
+ <body>   
+    <h1> Sinigang </h1>
+    <img src="https://www.foxyfolksy.com/wp-content/uploads/2014/03/chicken-adobo-1.jpg" alt="Sinigang">
+    <p><h3> Description</h3></p>
+    <p><h5> Chicken Adobo is a classic filipino dish liked by all. Simple too make but complex in flavors and experience. </h5></p>
+    <p><h3>Ingredients:</h3></p>
+    <ul>
+        <l>2 tbsp of olive oil</l>
+        <l>1.5 lbs of chicken legs or thighs</l>
+        <l>3 tbsp of garlic</l>
+        <l>1/2 cup of onions sliced</l>
+        <l>1/2 cup of white vinegar</l>
+        <l>2 cups of soy sauce</l>
+        <l>4 bay leaf</l>
+        <l>black pepper</l>
+     </ul>
+    <p><h3>Steps:</h3></p>
+    <ol>
+        <l>In a large pot, add olive oil, garlic, and onions. Allow to brown.</l>
+        <l>Once brown, add chicken evenly across bottom of pot. Cook each drumstick evenly. </l>
+        <l>Once brown, add soy sauce, white vinegar, bay leaf, and black pepper. Allow to simmer for 15 minutes on low-medium heat</l>
+        <l>To serve, pour over a bed of rice and enjoy</l>
+        
+    </ol>
+</body>
+</html>
