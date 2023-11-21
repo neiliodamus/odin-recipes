@@ -1,0 +1,10 @@
+img {
+        height: auto;
+        width: 500px;
+    }
+
+h1 {
+    color: rgb(23, 117, 102);
+    background-color: rgb(146, 99, 13);
+    font-size: 500px;
+}
